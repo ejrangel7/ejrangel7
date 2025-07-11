@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**ejrangel7/ejrangel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Hi, I'm Edward
+I'm a full stack developer.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.icons8.com/?size=24&id=8808&format=png&color=0000ff&link=https://www.linkedin.com/in/edward-rangel-643998341/)](https://www.linkedin.com/in/edward-rangel-643998341/)
+[![Gmail Badge](https://img.icons8.com/?size=24&id=50853&format=png&color=ff0000&link=mailto:ejrangel7@gmail.com)](mailto:ejrangel7@gmail.com)
+[![Github followers](https://img.icons8.com/?size=24&id=XASA7fMaH2Oc&format=png&color=000000&link=https://github.com/ejrangel7)](https://github.com/ejrangel7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+👩‍💻 I'm currently looking for a job.
+
+🧠 I'm currently learning advanced JavaScript.
+
+🤖 Techstack .js, .css, .jsx, .php
+
+📫 You can reach me on Brandon, Florida, 33511.
+
+⚡️ I speak spanish too.
+
