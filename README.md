@@ -1,23 +1,36 @@
+# Hi, I'm Edward Rangel
 
-## 🚀 Hi, I'm Edward
-I'm a full stack developer.
+Senior Full Stack Software Engineer with 16+ years of experience building, maintaining, and modernizing web applications and business systems.
 
-[![Linkedin Badge](https://img.icons8.com/?size=24&id=8808&format=png&color=0000ff&link=https://www.linkedin.com/in/edward-rangel-643998341/)](https://www.linkedin.com/in/edward-rangel-643998341/)
-[![Gmail Badge](https://img.icons8.com/?size=24&id=50853&format=png&color=ff0000&link=mailto:ejrangel7@gmail.com)](mailto:ejrangel7@gmail.com)
-[![Github followers](https://img.icons8.com/?size=24&id=XASA7fMaH2Oc&format=png&color=000000&link=https://github.com/ejrangel7)](https://github.com/ejrangel7)
+My background combines full-stack development, technical leadership, legacy modernization, database design, REST API integration, and e-commerce implementation. I focus on building practical web products that are reliable, maintainable, and aligned with business needs.
 
+## What I work with
 
+- **Frontend:** JavaScript, React, HTML5, CSS3, responsive web design
+- **Backend:** PHP, CakePHP, Node.js, REST APIs
+- **Databases:** MySQL, PostgreSQL, database design
+- **DevOps & tools:** Git, GitHub, Docker
+- **E-commerce:** Shopify, third-party integrations, analytics
+- **Ways of working:** Agile, MVC architecture, legacy-system modernization
 
-👩‍💻 I'm currently looking for a job.
+## Current focus
 
-🧠 I'm currently learning advanced JavaScript.
+- Building modern full-stack applications with JavaScript and React
+- Expanding backend development with Node.js
+- Applying Docker to reproducible development environments
+- Exploring practical AI integrations for web products and automation
 
-🤖 Techstack .js, .css, .jsx, .php
+## Selected experience
 
-📫 You can reach me on Brandon, Florida, 33511.
+- **Bad Taste Custom Tees — Co-Founder & Lead Developer**  
+  Building and managing the company's e-commerce and web technology ecosystem.
+- **Cat Underwear — Co-Founder & Lead Developer**  
+  Led the technical implementation of an online retail initiative.
+- **Enterprise software development**  
+  More than 16 years delivering and maintaining web applications, databases, integrations, and business systems.
 
-⚡️ I speak spanish too.
+## Connect
 
-### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ejrangel7&theme=dark)](https://git.io/streak-stats)
+- [LinkedIn](https://www.linkedin.com/in/edward-rangel-643998341/)
+- [Bad Taste Custom Tees](https://madeinbadtaste.com)
+- Email: [ejrangel7@gmail.com](mailto:ejrangel7@gmail.com)
